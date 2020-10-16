@@ -4,13 +4,13 @@ navbar:
   title: "Khan M. Hasan"
   left:
     - text: "Experience"
-      href: Experience.html 
+      href:  experience.html 
     - text: "Education"
-      href: Education.html
+      href:  education.html
     - text: "Publication"
-      href: Publication.html
-    - text: "about"
-      href: about.html
+      href:  publication.html
+    - text: "About"
+      href:  about.html
   right:
     - icon: fa-envelope fa-lg
       href: About.html
