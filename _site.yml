@@ -1,0 +1,27 @@
+name: "Khan M. Hasan"
+output_dir: "."
+navbar:
+  title: "Khan M. Hasan"
+  left:
+    - text: "Experience"
+      href: Experience.html 
+    - text: "Education"
+      href: Education.html
+    - text: "Publication"
+      href: Publication.html
+    - text: "about"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: About.html
+    - icon: fa-github fa-lg
+      href: http://github.com/mhkhan27
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/MdMehed22820988
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/mhkhn27
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

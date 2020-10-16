@@ -1,0 +1,107 @@
+---
+title: "Professional Experience"
+---
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+
+
+So far I have 2.5 year solid experience in Information Management, Geographical Information System and Remote Sensing with great success. In this period I continuous improved my skill in various tools of Data Management like R language, ArcGIS, QGIS etc.
+
+## [REACH Initiative](http:www.reach-initiative.org){style="float:right"}
+
+---
+
+
+<span style="font-size:15px"><b>1. Data/GIS Specialist</b></span> <i><span style="float:right;font-size:12px">June 2020 to continue...</span></i>
+ 
+<div id="myDIV">
+ <p><i><u><b>Major Responsibilities </b></u></i></p>
+1. Research/survey design including sampling, tool development 
+2. Data quality check (validity, integrity, precision, reliability and timeliness) 
+3. Automation data collection and analysis process with advance tool like advance excel, R programming and WebGIS
+4. Preparing and validating various maps for internal and external use
+5. Overall management of data team and enumerators 
+
+</div>
+
+<span style="font-size:15px"><b>2. Sr. GIS Officer</b></span> <i><span style="float:right;font-size:12px">April 2019 to May 2020</span></i>
+
+ <p><i><u><b>Major Responsibilities </b></u></i></p>
+ 
+1. Preparing maps for both internal and external use
+2. Data cleaning and analysis by using R and ArcGIS.
+3. Data visualization in tableau/power BI
+4. Kobo form development (Advance XLS version) and deploy to kobo server
+5. Landslide Risk Mapping
+6. Spatial and Aspatial analysis
+7. Satellite Image Analysis (NDVI, LULC (by ecognition) NDWI)
+
+
+## [Bangladesh Rohingya Response NGO Platform](http://brac.net){style="float:right"} 
+
+---
+
+<span style="font-size:15px"><b>1. Information Management Specialist</b></span> <i><span style="float:right;font-size:12px">April 2019 to Continue...</span></i>
+
+
+As an agreement Between REACH, ECHO and Bangladesh Rohingya Response NGO Platform (hosted by Danish Refugee Council (DRC)), I also work for Bangladesh Rohingya Response NGO Platform 2 days per week under secondment contract
+
+<p><i><u><b>Major Responsibilities </b></u></i></p>
+
+1. Preparing online and offline map /dashboard /report through R , ArcGIS, QGIS, Power BI and Tableau
+2. Preparing and maintaining an online database through deploying KOBO and Google form
+3. Continuous update and managing google group (mailing list) and WhatsApp security group and Team Leader group as per as google sheet and disseminate the information to NGO Platform members.
+4. Communicate to all member of NGO platform during the critical period in Cox’s Bazar for confidential information disseminating (FD6, FD7, Security, camp pass and VISA)
+
+## [BRAC](http://brac.net){style="float:right"} 
+
+---
+
+<span style="font-size:15px"><b>1. Sr. Officer/QC, Monitoring and Evaluation</b></span> <i><span style="float:right;font-size:12px">July 2018 to April 2019</span></i>
+ 
+
+<p><i><u><b>Major Responsibilities </b></u></i></p>
+1. Maintaining and updating MIS
+2. Data collection and cleaning
+3. Regular field visit for data collection and process monitoring
+4. Data Analysis and preparing map
+5. Collects data when necessary (Through KOBO)
+6. Data validation and quality check (According to 5 dimensions of USAID)
+7. Statistical analysis (through SPSS and Excel) of collected data
+8. Report writing and documentation
+
+
+
+## [Bangladesh Red Crescent Society (BDRCS)](www.bdrcs.org){style="float:right"} 
+
+---
+
+<span style="font-size:15px"><b>1. GIS Consultant</b></span> <i><span style="float:right;font-size:12px">Jan 2019 – Jan 2019</span></i>
+ 
+
+<p><i><u><b>Major Responsibilities </b></u></i></p>
+Developing a Geographic Database and Preparing Maps for Targeted Communitiest
+
+
+## [Asian Disaster Preparedness Center (ADPC)](http://adpc.net){style="float:right"} 
+
+---
+
+<span style="font-size:15px"><b>1. Intern</b></span> <i><span style="float:right;font-size:12px">May 2017 to Jun 2017</span></i>
+
+
+<p><i><u><b>Major Responsibilities </b></u></i></p>
+Preparing GIS database of Savar Municipal for Multi Hazard Risk and Vulnerability Assessment
+
+
+
+

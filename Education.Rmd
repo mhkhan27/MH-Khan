@@ -1,0 +1,63 @@
+---
+title: "Academic Degree"
+---
+
+<table width="100%">
+<tbody>
+<tr>
+<td width="40%">
+<p><strong>Degree / Certificate</strong></p>
+</td>
+<td width="16%">
+<p><strong>Concentration</strong></p>
+</td>
+<td width="42%">
+<p><strong>Institution</strong></p>
+</td>
+</tr>
+<tr>
+<td width="40%">
+<p>Masters in GIS for Environment and Development</p>
+</td>
+<td width="16%">
+<p>CGPA 3.90</p>
+</td>
+<td width="42%">
+<p>Jahangirnagar University</p>
+</td>
+</tr>
+<tr>
+<td width="40%">
+<p>Bachelor of Urban and Regional Planning</p>
+</td>
+<td width="16%">
+<p>CGPA 3.71</p>
+</td>
+<td width="42%">
+<p>Khulna University of Engineering &amp; Technology, Khulna</p>
+</td>
+</tr>
+<tr>
+<td width="40%">
+<p>HSC (Higher Secondary Certificate)</p>
+</td>
+<td width="16%">
+<p>GPA 5</p>
+</td>
+<td width="42%">
+<p>Dhaka College, Dhaka</p>
+</td>
+</tr>
+<tr>
+<td width="40%">
+<p>SSC (Regular)</p>
+</td>
+<td width="16%">
+<p>GPA 5</p>
+</td>
+<td width="42%">
+<p>Hasan Ali Govt. High School, Chandpur</p>
+</td>
+</tr>
+</tbody>
+</table>

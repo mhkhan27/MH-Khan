@@ -1,0 +1,30 @@
+---
+title: "KHAN Md Mehedi HASAN"
+---
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="input/pp.jpg" style="width:25%; border:5px solid; margin-right: 20px" align="left">
+
+I am GIS professional working in humanetarian sector for last 2.5 year with great success. Currently I am working in [REACH Initiative](https://www.reach-initiative.org/) as a GIS/Data Specialist. Here I am focal for data analysis and mapping through the combination of R language and GIS. Besides that I am also invlove in preparing internal and external [maps](https://bit.ly/3ePt09c) as well as [factsheets](https://bit.ly/351ViZQ)  for various projects such as Multi-Sectoral Need Assessment (MSNA), Market Assessment ,Education Assessment, WASH facility (bathing, latrine, and tube well) coding, etc. Apart from this, I am also supporting Bangladesh Rohingya Response NGO Platform (Hosted by Danish Refugee Council) under a special agreement between ECHO, REACH Initiative, and Danish Refugee council. For NGO Platform, I am managing their all IM related technical stuffs like preparing data collection tools for 4Ws, preparing dashboards,managing their mailing list, and preparing factsheets for all 150 members of NGO platform. 
+
+Before joining REACH, I worked with [BRAC](https://www.brac.net) as a Sr. Officer/QC, Monitoring and Evaluation, where I learnt about M&E framework and variaous ways to maintain data quality according to the USAID’s 5 dimensions of data quality. I also worked with [Bangladesh Red Crescent Society](http://www.bdrcs.org/) as a GIS consultant where my major task was to prepare spatial databases and maps of the project area. In BRAC, I was focal for preparing and managing a Management Information System (MIS) for a large scale programme named “Gender Justices and Diversity”. My diversified experiences make my expertise rich in following sectors but not limited to –
+
+>	1. Preparing maps in both ArcGIS and QGIS <p/> 
+>	2. Spatial Modeling and time series analysis using a bunch of satellite Image<p/>
+>	3. UAV and Satellite Image Analysis to identify forest cover <p/>
+>	4. WebGIS and Geoserver<p/>
+>	5. Automation of data cleaning and analysis process through R/SQL <p/>
+>	6. R coding for making new variable and calculating indices from collected data <p/>
+>	7. Preparing Dashboard and fact sheets (Tableau, Power BI and ArcGIS Online)<p/>
+>	8. Management Information System (MIS) development and maintenance  <p/>
+
+Furthermore, I am a self-oriented GIS-based Researcher. So far, I have six publications in various journals and conferences. Please visit my [LinkedIn](https://www.linkedin.com/in/mhkhan27/)  or [ResearchGate](https://bit.ly/3eQRpeI)  for more information about me. 
+
+
+I graduated from the [Khulna University of Engineering and Technology](http://www.kuet.ac.bd) with a great academic result in 2018.
+
+I am a well-known R enthusiast, including serving on the board and being an active member of _Humanitarian R language Group_. 
+
+My full CV is available [here](input/CV_Md. Mehedi Hasan Khan.pdf).
