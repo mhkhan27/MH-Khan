@@ -2,6 +2,7 @@
 title: "List of Publications"
 ---
 
+
 To make myself is one of the best researcher in county, I always do some research at small scale (for now!). Most of my reseach in related to GIS and Remote sensing in disaster. List of my publications is given below:
 
 1.	**Khan, M. M.**, & Sarkar, S. K. (2019). LANDSLIDE MODELLING AND RISK ASSESSMENT: EVIDENCE FROM. *Journal of Engineering Science, 91-101.* <p/>
