@@ -9,11 +9,11 @@ navbar:
       href:  Education.html
     - text: "Publication"
       href:  Publication.html
-    - text: "About"
-      href:  about.html
+    - text: "Contact"
+      href:  Contact.html
   right:
     - icon: fa-envelope fa-lg
-      href: about.html
+      href: Contact.html
     - icon: fa-github fa-lg
       href: http://github.com/mhkhan27
     - icon: fa-twitter fa-lg
