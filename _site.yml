@@ -10,10 +10,10 @@ navbar:
     - text: "Publication"
       href:  Publication.html
     - text: "About"
-      href:  About.html
+      href:  about.html
   right:
     - icon: fa-envelope fa-lg
-      href: About.html
+      href: about.html
     - icon: fa-github fa-lg
       href: http://github.com/mhkhan27
     - icon: fa-twitter fa-lg
